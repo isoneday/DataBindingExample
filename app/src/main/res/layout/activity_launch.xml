@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data class="LaunchBinding">
+        <variable name="launch"
+            type="com.iswandi.superheroes.model.Launch"/>
+    </data>
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/image_gif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:gif="@{launch.launchGif}"/>
+
+    </LinearLayout>
+</layout>
