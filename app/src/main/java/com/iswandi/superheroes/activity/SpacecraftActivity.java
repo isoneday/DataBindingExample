@@ -12,9 +12,7 @@ import com.iswandi.superheroes.databinding.SpacecraftListBinding;
 import com.iswandi.superheroes.repository.SpacecraftRepository;
 
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class SpacecraftActivity extends AppCompatActivity {
     SpacecraftListBinding binding;
 

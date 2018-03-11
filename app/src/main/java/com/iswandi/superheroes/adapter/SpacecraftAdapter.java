@@ -12,9 +12,7 @@ import com.iswandi.superheroes.databinding.SpacecraftItemBinding;
 import com.iswandi.superheroes.model.Spacecraft;
 
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class SpacecraftAdapter extends RecyclerView.Adapter<SpacecraftAdapter.BindingHolder>{
     private Spacecraft[] crafts;
 

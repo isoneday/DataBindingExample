@@ -10,9 +10,7 @@ import com.squareup.picasso.Picasso;
 
 import pl.droidsonroids.gif.GifImageView;
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class CustomBinders {
     @BindingAdapter({"font"})
     public static void setFont(TextView textView, String fontName){

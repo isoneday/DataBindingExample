@@ -3,9 +3,7 @@ package com.iswandi.superheroes.repository;
 
 import com.iswandi.superheroes.model.Spacecraft;
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class SpacecraftRepository {
     private Spacecraft[] spacecrafts = {
             new Spacecraft("Mercury", "http://www.bisbos.com/images_spacecraft/mercury/mercury_open2_1024.jpg", false),

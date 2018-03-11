@@ -1,8 +1,6 @@
 package com.iswandi.superheroes.model;
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class Astronaut {
     public final String image;
     public final String name;

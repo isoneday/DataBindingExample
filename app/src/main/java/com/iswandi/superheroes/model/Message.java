@@ -3,9 +3,7 @@ package com.iswandi.superheroes.model;
 import android.databinding.BaseObservable;
 import android.databinding.Bindable;
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class Message extends BaseObservable {
     private String transmission;
 

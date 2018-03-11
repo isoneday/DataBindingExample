@@ -6,9 +6,7 @@ import com.iswandi.superheroes.model.Launch;
 
 import java.util.Random;
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class LaunchRepository {
     private Launch[] launches = {
         new Launch("Falcon 9", R.drawable.falcon_nine),

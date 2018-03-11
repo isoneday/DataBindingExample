@@ -9,9 +9,7 @@ import com.iswandi.superheroes.R;
 import com.iswandi.superheroes.databinding.LaunchBinding;
 import com.iswandi.superheroes.repository.LaunchRepository;
 
-/**
- * Created by Josh on 4/17/2016.
- */
+
 public class LaunchActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

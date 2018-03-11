@@ -10,9 +10,7 @@ import com.iswandi.superheroes.databinding.MessageBinding;
 import com.iswandi.superheroes.model.Message;
 
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class MessageActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

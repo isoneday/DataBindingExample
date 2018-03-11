@@ -2,9 +2,7 @@ package com.iswandi.superheroes.model;
 
 import android.support.annotation.DrawableRes;
 
-/**
- * Created by joshuarose on 4/19/16.
- */
+
 public class Launch {
     public final String launchName;
     @DrawableRes

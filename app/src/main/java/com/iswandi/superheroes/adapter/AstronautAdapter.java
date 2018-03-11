@@ -12,9 +12,6 @@ import com.iswandi.superheroes.databinding.AstronautItemBinding;
 import com.iswandi.superheroes.model.Astronaut;
 
 
-/**
- * Created by joshuarose on 4/19/16.
- */
 public class AstronautAdapter extends RecyclerView.Adapter<AstronautAdapter.BindingHolder> {
     private Astronaut[] astronauts;
 
